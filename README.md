@@ -6,8 +6,8 @@
 <h5> here is link for download trained model: <br>https://drive.google.com/file/d/1RgK3zSAC7E0BpKxyR8TisxWWkTdYrGpf/view?usp=sharing </h5>
 
 <h3>Here is Output of project:<h3>
-  ![vdcfa](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/07/vehicle-counting-classification-opencv-python.jpg)
+  <img src="static/results.jpg">
   <h4>Here is SS of SMS Alert: </h4>
-  <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/07/vehicle-counting-classification-opencv-python.jpg">
+  <img src="">
   
 <h6>Good Luck</h6>
