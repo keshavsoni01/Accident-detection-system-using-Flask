@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Upload file</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <style>
+      body {
+        background-color: #F5F5DC;
+        font-family: 'Inter', sans-serif;      }
+      h1 {
+        text-align: center;
+        color:#0A043C;
+        width: 100%;
+        height:40px;
+        padding-top: 20px;
+        margin-top: 15px;
+        font-family: 'Inter', sans-serif;
+      }
+      .center {
+        display: flex;
+        justify-content: center;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 30px;
+        padding: 70px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        width: 600px;
+        height: 300px;
+      }
+      input[type="file"] {
+        border: none;
+        background-color: #f1f1f1;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+      }
+      input[type="submit"] {
+        background-color: #0A043C;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+      }
+      input[type="submit"]:hover {
+        background-color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h1>Upload Image from your System</h1>
+      <br><br><br>
+      <div class="center">
+        <form method="post" enctype="multipart/form-data">
+          <p>Upload image here</p>
+          <input type="file" name="image" accept="image/*" class="button" required="true" />
+          <input type="submit" value="Detect Accident" class="button" />
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
