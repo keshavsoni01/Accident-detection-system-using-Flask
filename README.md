@@ -8,6 +8,6 @@
 <h3>Here is Output of project:<h3>
   ![vdcfa](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/07/vehicle-counting-classification-opencv-python.jpg)
   <h4>Here is SS of SMS Alert: </h4>
-  <img src="">
+  <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/07/vehicle-counting-classification-opencv-python.jpg">
   
 <h6>Good Luck</h6>
