@@ -1,6 +1,11 @@
 # Accident-detection-system-using-Flask
 
-<h3>First Clone Repository : <br> <br> Then got to directory : <br> cd Accident detection using Flask <br> Then Run : <br> python app.py </h3>
+<h3>First Clone Repository :<h3>
+  <br> git clone https://github.com/keshavsoni01/Accident-detection-system-using-Flask.git <br> 
+  <h3>Then got to directory : </h3>
+  <br> cd Accident detection using Flask <br> 
+  <h3>Then Run : </h3>
+  <br> python app.py 
 
 <h3> The dataset is taken from kaggle :<br>https://www.kaggle.com/datasets/ckay16/accident-detection-from-cctv-footage</h3>
 
