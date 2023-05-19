@@ -6,7 +6,7 @@
 <h5> here is link for download trained model: <br>https://drive.google.com/file/d/1RgK3zSAC7E0BpKxyR8TisxWWkTdYrGpf/view?usp=sharing </h5>
 
 <h3>Here is Output of project:<h3>
-  <img src="https://github.com/keshavsoni01/Accident-detection-system-using-Flask/blob/main/static/results.jpg">
+  (https://github.com/keshavsoni01/Accident-detection-system-using-Flask/blob/main/static/results.jpg)
   <h4>Here is SS of SMS Alert: </h4>
   <img src="">
   
