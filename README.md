@@ -20,9 +20,9 @@ cd Accident-detection-system-using-Flask
 ```
 
 ### 3. Install Required Libraries
-Install all the dependencies listed in the `requirements.txt` file:
+Install all the dependencies Required Like:
 ```bash
-pip install -r requirements.txt
+flask , twillio api, tensorflow, opencv
 ```
 
 ### 4. Run the Application
@@ -51,11 +51,6 @@ If you prefer to use a pre-trained model, you can download it from the link belo
 ## Notes
 - Ensure you have Python installed on your system before setting up the project.
 - Make sure all required libraries are installed to avoid runtime errors.
-
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as per your needs.
 
 ---
 
